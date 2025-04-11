@@ -57,7 +57,7 @@ The repository contains an excel file with raw data and a jupyter notebook with 
 
     My methodology and my summarized main findigs can be found at the below post.
 
+    https://medium.com/@leandrosnikolopoulos/can-we-predict-life-expectancy-using-machine-learning-239b83d8d29d
+
 ## Licensing, Authors, Acknowledgements
     All data has been extracted from the World Bank Databank Website.
-
-```
