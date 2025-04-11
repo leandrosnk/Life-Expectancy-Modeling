@@ -28,9 +28,9 @@ More specifically, I will try to answer :
 
 ## File Descriptions
 
-The repository contains an excel file with raw data and a jupyter notebook with the below structure:
+The repository contains a jupyter notebook with the below structure:
 
-*Please note that raw data was also stored in Google drive so that the notebook can run without having to download the excel file locally.
+*Please note that raw data was stored in Google drive so that the notebook can run without having to download the excel file locally.
       
       Section 1 EDA
         * Generate descriptive statistics
